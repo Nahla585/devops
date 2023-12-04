@@ -21,7 +21,7 @@ const connect = async()=>{
 app.use("/api",appointmentRoute)
 
 app.get('/chahla',(req,res)=>{
-        res.json('Nahla EP');
+        res.json('Nahla test endpoint');
 });
 
 
