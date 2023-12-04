@@ -28,7 +28,7 @@ app.get('/chahla',(req,res)=>{
 
 
 app.get('/test',(req,res)=>{
-    res.json('Test endpoint');
+    res.json('Test EP');
 });
 
 app.get('/',(req,res)=>{
