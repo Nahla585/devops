@@ -32,7 +32,7 @@ app.get('/test',(req,res)=>{
 });
 
 app.get('/',(req,res)=>{
-    res.json('Devops Project By Chahla');
+    res.json('Devops Project made by Chahla');
 });
 
 
